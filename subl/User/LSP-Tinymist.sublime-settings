@@ -1,0 +1,5 @@
+{
+    "exportPdf": "onSave",
+    "preview.refresh": "onSave",
+    "enabled": true,
+}

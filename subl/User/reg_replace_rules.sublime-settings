@@ -1,0 +1,50 @@
+{
+    "format": "3.0",
+    "replacements": {
+        "escaped_quotes": {
+            "find": "\\\\<\\\\<(.*?)\\\\>\\\\>",
+            "replace": "«\\1»",
+            "greedy": true,
+        },
+        "bare_quotes": {
+            "find": "<<(.*?)>>",
+            "replace": "«\\1»",
+            "greedy": true,
+        },
+        "math_inline": {
+            "find": "(\\\\\\(|\\\\\\))",
+            "replace": "$",
+            "greedy": true,
+        },
+        "math_display": {
+            "find": "(\\\\\\[|\\\\\\])",
+            "replace": "$$",
+            "greedy": true,
+        },
+        "deframe01": {
+            "find": "\\\\begin\\{frame\\}\\n",
+            "replace": "",
+            "greedy": true,
+        },
+        "deframe02": {
+            "find": "\\\\end\\{frame\\}\\n",
+            "replace": "",
+            "greedy": true,
+        },
+        "deframe03": {
+            "find": "\\\\begin\\{onlyenv\\}<.*?>\\n",
+            "replace": "",
+            "greedy": true,
+        },
+        "deframe04": {
+            "find": "\\\\end\\{onlyenv\\}\\n",
+            "replace": "",
+            "greedy": true,
+        },
+        "deframe05": {
+            "find": "<.*?:.*?>",
+            "replace": "",
+            "greedy": true,
+        },
+    },
+}

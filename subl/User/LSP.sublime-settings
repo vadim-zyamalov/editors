@@ -1,0 +1,16 @@
+{
+    "clients":
+    {
+        "haskell-language-server":
+        {
+            "enabled": true,
+            "command": ["haskell-language-server-wrapper", "--lsp"],
+            "selector": "source.haskell",
+            "settings":
+            {
+                "haskell.formattingProvider": "stylish-haskell"
+            }
+        }
+    },
+    "lsp_format_on_save": true,
+}

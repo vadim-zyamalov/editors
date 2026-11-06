@@ -1,0 +1,36 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AlignTab",
+		"Asymptote",
+		"BracketHighlighter",
+		"Catppuccin color schemes",
+		"fish",
+		"Just",
+		"LaTeXTab",
+		"LaTeXTools",
+		"LSP",
+		"LSP-json",
+		"LSP-R",
+		"LSP-ruff",
+		"LSP-TexLab",
+		"LSP-Tinymist",
+		"LSP-ty",
+		"Markdown Extended",
+		"MarkdownPreview",
+		"Package Control",
+		"PowerShell",
+		"Pretty JSON",
+		"RegReplace",
+		"Stata Enhanced",
+		"Terminus",
+		"Typst",
+		"Visual Studio Code Plus Scheme",
+		"Whitespace",
+	],
+}
