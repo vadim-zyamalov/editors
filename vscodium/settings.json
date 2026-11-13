@@ -330,7 +330,6 @@
     ],
     "window.commandCenter": false,
     "window.zoomLevel": 1,
-    "workbench.colorTheme": "Catppuccin Mocha",
     "workbench.navigationControl.enabled": false,
     "workbench.secondarySideBar.defaultVisibility": "hidden",
     "workbench.settings.applyToAllProfiles": [
@@ -340,7 +339,6 @@
     "workbench.welcomePage.extraAnnouncements": false,
     "workbench.settings.showAISearchToggle": false,
     "terminal.integrated.allowChords": false,
-    "workbench.iconTheme": "catppuccin-mocha",
     "editor.semanticTokenColorCustomizations": {
         "enabled": true,
         "rules": {
@@ -373,5 +371,6 @@
     "asymptote.compile.autoCompile": false,
     "workbench.editorAssociations": {
         "*.pdf": "latex-workshop-pdf-hook"
-    }
+    },
+    "workbench.colorTheme": "Monokai"
 }

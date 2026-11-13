@@ -1,8 +1,5 @@
 astral-sh.ty
 asy.asymptote-lsp
-catppuccin.catppuccin-vsc
-catppuccin.catppuccin-vsc-icons
-catppuccin.catppuccin-vsc-pack
 charliermarsh.ruff
 efoerster.texlab
 james-yu.latex-workshop
