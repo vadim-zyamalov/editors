@@ -11,7 +11,7 @@
         }
     ],
     "detect_indentation": false,
-    "color_scheme": "Catppuccin Mocha.sublime-color-scheme",
+    "color_scheme": "Monokai.sublime-color-scheme",
     "font_face": "Iosevka Extended",
     "font_size": 11,
     "ignored_packages": [
